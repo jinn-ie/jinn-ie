@@ -1,4 +1,8 @@
-## Hi there 👋
+## Jinnie 👋
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj020724)](https://solved.ac/lsj020724/)
+
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 <!--
 **jinn-ie/jinn-ie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
