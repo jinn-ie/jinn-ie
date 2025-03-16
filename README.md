@@ -6,8 +6,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-
-badge&logo=FastAPI&logoColor=009688" />&nbsp
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-
+badge&logo=fastapi&logoColor=009688" />&nbsp
   
 <!--   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp -->
 <!--   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp -->
