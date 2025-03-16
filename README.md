@@ -2,6 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92e294,100:d19dfb&height=180&text=jinn-ie&animation=&fontColor=ffffff&fontSize=50" />
 </div>
 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+<div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=jinn-ie&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinn-ie&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj020724"/>
+</div>
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 About Me </h2>  
 <p style="font-weight: 700; font-size: 15px; color: #282d33;"> 춤추는 감자입니다 </p>
 
@@ -49,8 +56,3 @@
     </a>
 </div> 
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-<div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=jinn-ie&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinn-ie&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-</div>
